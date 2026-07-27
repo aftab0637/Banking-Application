@@ -1,0 +1,45 @@
+# Maven
+target/
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build.log
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.metadata/
+Servers/
+.classpath
+.project
+.settings/
+.factorypath
+bin/
+**/bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+**/out/
+
+# NetBeans
+nbproject/private/
+build/
+**/build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log Files
+*.log
